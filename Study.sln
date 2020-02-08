@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Study", "Study.csproj", "{B6FF962D-521B-4328-B64F-42B80968835E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LINQ", "..\LINQ\LINQ.csproj", "{337ED62E-FD7E-48AB-A66D-08D889B6659D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListAndLambda", "..\ListAndLambda\ListAndLambda.csproj", "{B28770F6-78E8-472A-9B22-BDE8C30CE3E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FF962D-521B-4328-B64F-42B80968835E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FF962D-521B-4328-B64F-42B80968835E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FF962D-521B-4328-B64F-42B80968835E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FF962D-521B-4328-B64F-42B80968835E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{337ED62E-FD7E-48AB-A66D-08D889B6659D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{337ED62E-FD7E-48AB-A66D-08D889B6659D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{337ED62E-FD7E-48AB-A66D-08D889B6659D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{337ED62E-FD7E-48AB-A66D-08D889B6659D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B28770F6-78E8-472A-9B22-BDE8C30CE3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B28770F6-78E8-472A-9B22-BDE8C30CE3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B28770F6-78E8-472A-9B22-BDE8C30CE3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B28770F6-78E8-472A-9B22-BDE8C30CE3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B6E1AFDE-B05C-4BCC-BDB0-6A66EB2B517E}
+	EndGlobalSection
+EndGlobal
